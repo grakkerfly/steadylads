@@ -4,8 +4,8 @@
 function siteLinks() {
   return {
     twitter: 'https://x.com/holdsteadylads', // e.g. https://x.com/your_account
-    pumpfun: 'https://pump.fun', // e.g. https://pump.fun/coin/YOUR_CONTRACT
-    contract: 'contract address' // Solana contract address to copy
+    pumpfun: 'https://pump.fun/coin/6RMAja3E3n4Xy2965bvW7SnbFaTs4kaStqPACvLhpump', // e.g. https://pump.fun/coin/YOUR_CONTRACT
+    contract: '6RMAja3E3n4Xy2965bvW7SnbFaTs4kaStqPACvLhpump' // Solana contract address to copy
   };
 }
 
