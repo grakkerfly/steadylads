@@ -7,3 +7,5 @@ h1{font-weight:400;font-style:italic;letter-spacing:-4px;text-shadow:1px 2px 0 #
 
 nav .nav-link{display:inline;margin:0 6px;padding:0;border:0;background:none;box-shadow:none;border-radius:0;font:inherit;color:#00e;text-decoration:underline;cursor:pointer}nav .nav-link:hover{color:red;background:none}nav .nav-link:active{transform:none}.nav-status{display:block;height:16px;margin-top:7px;font-size:12px;color:#666}.contract span{overflow-wrap:anywhere}@media(max-width:600px){nav .nav-link{margin:0 3px}}
 
+
+.government-proof{margin:24px auto 4px;font-size:14px}.government-proof p{margin:0 0 7px;font-style:italic;font-size:18px}.government-proof a{font-size:13px}.government-proof small{display:block;margin-top:7px;color:#777;font-size:10px}.memes{padding:15px 0 23px}.memes h2{font-size:20px;margin-bottom:21px}.meme-gallery{display:flex;align-items:flex-start;gap:12px;max-width:590px;margin:0 auto}.meme-gallery a{display:block;flex:1;min-width:0}.meme-gallery img{display:block;width:100%;height:auto;border:0}@media(max-width:600px){.meme-gallery{flex-direction:column;align-items:center;gap:20px}.meme-gallery a{width:100%;max-width:340px}}

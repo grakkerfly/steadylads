@@ -3,9 +3,9 @@
 // EDIT THESE THREE VALUES. Leave empty until your links / contract are ready.
 function siteLinks() {
   return {
-    twitter: 'https://x.com/holdsteadylads', // e.g. https://x.com/your_account
-    pumpfun: 'https://pump.fun', // e.g. https://pump.fun/coin/YOUR_CONTRACT
-    contract: 'contract address' // Solana contract address to copy
+    twitter: '', // e.g. https://x.com/your_account
+    pumpfun: '', // e.g. https://pump.fun/coin/YOUR_CONTRACT
+    contract: '' // Solana contract address to copy
   };
 }
 
